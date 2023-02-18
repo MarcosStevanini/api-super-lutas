@@ -1,8 +1,8 @@
-var sherdog = require("sherdog");
+var sherdog = require("api_super_lutas");
 
 const express = require("express");
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 app.get("/fighter/:user", (req, res) => {
   var url = `http://www.sherdog.com/fighter/${req.params.user}`;

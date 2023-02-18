@@ -33,6 +33,14 @@ ajv@^6.12.3:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
+api_super_lutas@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/api_super_lutas/-/api_super_lutas-1.0.0.tgz#50f87163fd58eca7c6e722dc811c546eb7a1e436"
+  integrity sha512-PJZo9TO9hQhdKkr4hl+5PfMdBB9dhDrA0n2VRuYCXbtlsC5nS4/+0K6MgpEk6ojdsfGSbKBooNc5l5mAnMMtDA==
+  dependencies:
+    cheerio "^0.18.0"
+    request "^2.53.0"
+
 array-flatten@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/array-flatten/-/array-flatten-1.1.1.tgz#9a5f699051b1e7073328f2a008968b64ea2955d2"
@@ -729,14 +737,6 @@ setprototypeof@1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/setprototypeof/-/setprototypeof-1.2.0.tgz#66c9a24a73f9fc28cbe66b09fed3d33dcaf1b424"
   integrity sha512-E5LDX7Wrp85Kil5bhZv46j8jOeboKq5JMmYM3gVGdGH8xFpPWXUMsNrlODCrkoxMEeNi/XZIwuRvY4XNwYMJpw==
-
-sherdog@^0.1.10:
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/sherdog/-/sherdog-0.1.10.tgz#fe51a0a382d6b9c5745b57d35fdba35947f560ba"
-  integrity sha512-l2s1XZnLgAEix5RKnoAxP3VAmteHGr0wpiJd0PCSTSf7VZQ/TJTzqJULLRGKr5X8KpRT1cEwQhkfEH6xfAwDJQ==
-  dependencies:
-    cheerio "^0.18.0"
-    request "^2.53.0"
 
 side-channel@^1.0.4:
   version "1.0.4"
