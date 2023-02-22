@@ -33,10 +33,10 @@ ajv@^6.12.3:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-api_super_lutas@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/api_super_lutas/-/api_super_lutas-1.0.0.tgz#50f87163fd58eca7c6e722dc811c546eb7a1e436"
-  integrity sha512-PJZo9TO9hQhdKkr4hl+5PfMdBB9dhDrA0n2VRuYCXbtlsC5nS4/+0K6MgpEk6ojdsfGSbKBooNc5l5mAnMMtDA==
+api_super_lutas@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/api_super_lutas/-/api_super_lutas-1.0.1.tgz#d07cace10a7464365837458857a810a4e1c52d0d"
+  integrity sha512-K4YdAFORoRQTGdLQYYO95+PlgvbMT/kiiStUA7juv+zyeTkFjRYQy9tAA12It3EhTy7R7RtT8/cIypr7cb/SQQ==
   dependencies:
     cheerio "^0.18.0"
     request "^2.53.0"
